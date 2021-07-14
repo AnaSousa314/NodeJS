@@ -4,6 +4,6 @@
 
 <p>3 tipos de módulos:</p>
 
--> TODOS OS AQUIVOS JS SÃO MÓDULOS;
--> Nativos; ex HTTP
--> npm (Node Package Manager);
+* TODOS OS AQUIVOS JS SÃO MÓDULOS;
+* Nativos; ex HTTP
+* npm (Node Package Manager);
