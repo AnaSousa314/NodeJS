@@ -1,3 +1,3 @@
-## Criando a Primeira Rota HTTP
+## Query Params
 
-OBS.: mocks são dados fakes que criamos apenas para fazer testes.
+Como trabalhar e capturar query params através do NodeJs puro.
